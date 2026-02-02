@@ -1,0 +1,13 @@
+﻿# Memory Benchmark
+
+- **PySide6 (Current):** ~177 MB
+
+### Memory Usage:
+```
+ProcessName  Memory (MB)
+-----------  -----------
+MaddieIsland        7.48  (launcher process)
+MaddieIsland      169.44  (main process)
+----------------------------
+Total:           ~177 MB
+```
